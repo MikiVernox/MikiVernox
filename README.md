@@ -9,12 +9,14 @@
 **alt="Facebook" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"
 **alt="C#" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"
+**alt="C++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Phyton"
+**alt="Phyton" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"
 **alt="Jira" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"
 **alt="Numpy" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Phyton"
-**alt="Phyton" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"
 **alt="Unity" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine"
