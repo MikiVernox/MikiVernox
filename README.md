@@ -118,16 +118,6 @@ Freelance game development work on a card game using GDScript and Godot 4. Focus
 
 </div>
 
----
-
-## `> cat philosophy.txt`
-
-> *"Good code is invisible. Good game feel is unforgettable."*
-
-I believe the best developer tools get out of your way, and the best games make you forget you're playing one. Whether I'm writing a save system in Blueprints or a Git backend in Rust, I care about the details that most people skip state management, edge cases, and the gap between "it works" and "it feels right."
-
----
-
 ## `> contact --open`
 
 <div align="center">
