@@ -15,7 +15,7 @@
 
 [![Location](https://img.shields.io/badge/📍_Bari,_Italy-0d1117?style=flat-square&labelColor=0d1117&color=ff6b35)](https://github.com/MikiVernox)
 [![Portfolio](https://img.shields.io/badge/GitHub-MikiVernox-ff6b35?style=flat-square&logo=github&logoColor=white)](https://mikivernox.github.io/mdv-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-domenico-vernone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-domenico-vernone-61491b241/)
 [![Instagram](https://img.shields.io/badge/Instagram-@MikiVernox-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 [![AIV Academy](https://img.shields.io/badge/🎓_AIV_Academy-Certified-ff6b35?style=flat-square&labelColor=0d1117)](https://www.aiv01.it)
 
@@ -33,7 +33,6 @@ struct Developer {
     focus:      ["Game Development", "Rust Tooling"],
     engines:    ["Unreal Engine 5", "Godot 4", "Unity"],
     languages:  ["Rust", "GDScript", "C++", "TypeScript", "Python"],
-    aesthetic:  "Neo-Noir × Cyberpunk",
     currently:  "Building Phantom Git ",
 }
 ```
@@ -86,7 +85,7 @@ Freelance game development work on a card game using GDScript and Godot 4. Focus
 
 | Domain | Technologies |
 |---|---|
-| **Game Engines** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0e1128?style=flat-square&logo=unrealengine&logoColor=white) ![Godot](https://img.shields.io/badge/Godot_4-478cbf?style=flat-square&logo=godotengine&logoColor=white) |
+| **Game Engines** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0e1128?style=flat-square&logo=unrealengine&logoColor=white) ![Godot](https://img.shields.io/badge/Godot_4-478cbf?style=flat-square&logo=godotengine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-0e1128?style=flat-square&logo=unity&logoColor=white)|
 | **Languages** | ![Rust](https://img.shields.io/badge/Rust-ce422b?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478cbf?style=flat-square&logo=godotengine&logoColor=white) |
 | **Rust Ecosystem** | ![egui](https://img.shields.io/badge/egui-ce422b?style=flat-square&logo=rust&logoColor=white) ![tokio](https://img.shields.io/badge/tokio-ce422b?style=flat-square&logo=rust&logoColor=white) ![git2--rs](https://img.shields.io/badge/git2--rs-ce422b?style=flat-square&logo=rust&logoColor=white) |
 | **AI / Local** | ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white) |
