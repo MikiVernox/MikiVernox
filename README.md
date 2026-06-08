@@ -11,7 +11,7 @@
 
 ### `Michele Domenico Vernone` — Game Developer & Software Engineer
 
-*Building things that feel alive — from game systems to developer tooling.*
+*Building things that feel alive  from game systems to developer tooling.*
 
 [![Location](https://img.shields.io/badge/📍_Bari,_Italy-0d1117?style=flat-square&labelColor=0d1117&color=ff6b35)](https://github.com/MikiVernox)
 [![Portfolio](https://img.shields.io/badge/GitHub-MikiVernox-ff6b35?style=flat-square&logo=github&logoColor=white)](https://mikivernox.github.io/mdv-portfolio/)
@@ -34,18 +34,18 @@ struct Developer {
     engines:    ["Unreal Engine 5", "Godot 4", "Unity"],
     languages:  ["Rust", "GDScript", "C++", "TypeScript", "Python"],
     aesthetic:  "Neo-Noir × Cyberpunk",
-    currently:  "Building Phantom Git 🔮",
+    currently:  "Building Phantom Git ",
 }
 ```
 
-I'm a **game developer and software engineer** certified at AIV Academy, with a passion for systems that feel polished and intentional. I work across the full stack of game dev — from Blueprint logic in UE5 to custom tooling in Rust — and I'm drawn to projects that live at the intersection of **craft, code, and aesthetics**.
+I'm a **game developer and software engineer** certified at AIV Academy, with a passion for systems that feel polished and intentional. I work across the full stack of game dev — from Blueprint logic in UE5 to custom tooling in Rust and I'm drawn to projects that live at the intersection of **craft, code, and aesthetics**.
 
 ---
 
 ## `> ls ./projects`
 
-### 🔮 Phantom Git
-> *A custom Git GUI client built in Rust — fast, minimal, opinionated.*
+###  Phantom Git
+> *A custom Git GUI client built in Rust  fast, minimal, opinionated.*
 
 A native Git client with a Neo-Noir interface, built with `egui/eframe` (and an `iced` variant in progress). Designed as a developer-first alternative to bloated GUI clients — lightweight, keyboard-driven, and honest about what it does.
 
@@ -53,25 +53,25 @@ A native Git client with a Neo-Noir interface, built with `egui/eframe` (and an 
 
 ---
 
-### 🗂️ repo-navigator
+### repo-navigator
 > *A pi.dev skill that lets AI agents navigate large codebases token-efficiently.*
 
-A TypeScript skill for the pi.dev platform that generates a compact JSON index of any repository. Supports three fetch modes: semantic query scoring, exact file/line range, and symbol lookup — with safety guards for large repos and zero runtime npm dependencies.
+A TypeScript skill for the pi.dev platform that generates a compact JSON index of any repository. Supports three fetch modes: semantic query scoring, exact file/line range, and symbol lookup  with safety guards for large repos and zero runtime npm dependencies.
 
 `TypeScript` · `pi.dev` · `AI Tooling`
 
 ---
 
-### 🤖 Luna 3.0
+###  Luna 3.0
 > *A local AI assistant for game development, running fully offline.*
 
-Built on Ollama (`llama3.2:3b`), Luna features a cyberpunk HUD GUI in customtkinter, SQLite-backed persistent memory, a multi-role personality system (Game Dev, Code Reviewer, Debug Assistant), and Piper TTS for offline voice — all running locally at zero cost.
+Built on Ollama (`llama3.2:3b`), Luna features a cyberpunk HUD GUI in customtkinter, SQLite-backed persistent memory, a multi-role personality system (Game Dev, Code Reviewer, Debug Assistant), and Piper TTS for offline voice all running locally at zero cost.
 
 `Python` · `Ollama` · `customtkinter` · `SQLite` · `Piper TTS`
 
 ---
 
-### 🃏 Gudnak *(Freelance)*
+###  Gudnak *(Freelance)*
 > *A digital card game developed at Umbra Interactive.*
 
 Freelance game development work on a card game using GDScript and Godot 4. Focused on game logic, card system architecture, and UI/UX flow.
@@ -100,8 +100,8 @@ Freelance game development work on a card game using GDScript and Godot 4. Focus
 
 ```
 [██████████░░░░░░]  repo-navigator — pi.dev skill        🔨 In Progress
-[████████████████]  Luna 3.0 — local AI assistant        ✅ Shipped
-[████████████████]  Gudnak — card game (Umbra)           ✅ Shipped
+[████████████████]  Luna 3.0 — local AI assistant        ✅ Finished
+[████████████████]  Gudnak — card game (Umbra)           ✅ Finished
 [░░░░░░░░░░░░░░░░]  AAA Movement System (Godot 4)        📋 Planned
 [░░░░░░░░░░░░░░░░]  Open source Phantom Git release      📋 Planned
 ```
@@ -112,9 +112,7 @@ Freelance game development work on a card game using GDScript and Godot 4. Focus
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikiVernox&show_icons=true&theme=dark&bg_color=0d1117&border_color=ff6b35&icon_color=ff6b35&title_color=ff6b35&text_color=c9d1d9&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikiVernox&layout=compact&theme=dark&bg_color=0d1117&border_color=ff6b35&title_color=ff6b35&text_color=c9d1d9)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikiVernox&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MikiVernox&theme=dark&background=0d1117&border=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35)
 
@@ -137,7 +135,7 @@ I believe the best developer tools get out of your way, and the best games make 
 Got a project, a collab idea, or just want to talk game dev and Rust?
 
 [![Email](https://img.shields.io/badge/Email-Reach_Out-ff6b35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vernonemichele@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-domenico-vernone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/michele-domenico-vernone](https://www.linkedin.com/in/michele-domenico-vernone-61491b241/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikiVernox)
 
 *Always open to interesting problems.*
