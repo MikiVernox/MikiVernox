@@ -38,7 +38,7 @@ struct Developer {
 }
 ```
 
-I'm a **game developer and software engineer** certified at AIV Academy, with a passion for systems that feel polished and intentional. I work across the full stack of game dev — from Blueprint logic in UE5 to custom tooling in Rust and I'm drawn to projects that live at the intersection of **craft, code, and aesthetics**.
+I'm a **game developer and software engineer** certified at AIV Academy, with a passion for systems that feel polished and intentional. I work across the full stack of game dev from Blueprint logic in UE5 to custom tooling in Rust and I'm drawn to projects that live at the intersection of **craft, code, and aesthetics**.
 
 ---
 
@@ -47,7 +47,7 @@ I'm a **game developer and software engineer** certified at AIV Academy, with a 
 ###  Phantom Git
 > *A custom Git GUI client built in Rust  fast, minimal, opinionated.*
 
-A native Git client with a Neo-Noir interface, built with `egui/eframe` (and an `iced` variant in progress). Designed as a developer-first alternative to bloated GUI clients — lightweight, keyboard-driven, and honest about what it does.
+A native Git client with a Neo-Noir interface, built with `egui/eframe` (and an `iced` variant in progress). Designed as a developer-first alternative to bloated GUI clients lightweight, keyboard-driven, and honest about what it does.
 
 `Rust` · `egui` · `iced` · `git2-rs` · `tokio` · `octocrab`
 
@@ -124,7 +124,7 @@ Freelance game development work on a card game using GDScript and Godot 4. Focus
 
 > *"Good code is invisible. Good game feel is unforgettable."*
 
-I believe the best developer tools get out of your way, and the best games make you forget you're playing one. Whether I'm writing a save system in Blueprints or a Git backend in Rust, I care about the details that most people skip — state management, edge cases, and the gap between "it works" and "it feels right."
+I believe the best developer tools get out of your way, and the best games make you forget you're playing one. Whether I'm writing a save system in Blueprints or a Git backend in Rust, I care about the details that most people skip state management, edge cases, and the gap between "it works" and "it feels right."
 
 ---
 
@@ -135,7 +135,7 @@ I believe the best developer tools get out of your way, and the best games make 
 Got a project, a collab idea, or just want to talk game dev and Rust?
 
 [![Email](https://img.shields.io/badge/Email-Reach_Out-ff6b35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vernonemichele@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/michele-domenico-vernone](https://www.linkedin.com/in/michele-domenico-vernone-61491b241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/michele-domenico-vernone-61491b241/])
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikiVernox)
 
 *Always open to interesting problems.*
@@ -143,11 +143,3 @@ Got a project, a collab idea, or just want to talk game dev and Rust?
 </div>
 
 ---
-
-<div align="center">
-
-```
-[ SYSTEM ONLINE — MikiVernox v2026.06 — Bari, Italy ]
-```
-
-</div>
